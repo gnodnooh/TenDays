@@ -4,7 +4,7 @@
 
 “Ten Days for Flood Protection” is a serious game and explores risk, uncertainty and probability in the context of forecasts, illustrating one example of using a 10-day streamflow forecast to inform pre-flood management.
 
-The TenDays has been played at following workshops:
+The TenDays has been played at the following workshops:
 - Jun-2019: Joint workshop entitled "Advancing Disaster Risk Management Through Forecast-based Financing for Flood Preparedness" organized by UW-Madison, Red Cross Climate Centre, SENAMHI, and Peruvian Red Cross (40 people)
 - Oct-2018: Climate, People, and Environment Program (CPEP) seminar at UW-Madison (30 people)
 - Sep-2018: Environmental Fluid Mechanics & Water Resources Engineering Seminar at UW-Madison (12 people)
